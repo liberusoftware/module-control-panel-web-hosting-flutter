@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-web-hosting-flutter",
+  "capabilityKey": "liberusoftware/module-control-panel-web-hosting",
+  "presentation": "mobile-flutter",
+  "package": "module_control_panel_web_hosting_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/control-panel/nextjs/web-hosting.md",
+  "presentationPlan": "projects/control-panel/flutter/web-hosting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
